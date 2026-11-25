@@ -1,0 +1,14 @@
+torch
+torchvision
+transformers
+unsloth
+peft
+trl
+datasets
+accelerate
+bitsandbytes
+pandas
+numpy
+Pillow
+tqdm
+jupyterlab

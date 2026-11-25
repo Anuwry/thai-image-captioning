@@ -1,0 +1,39 @@
+# Credentials
+.env
+.env.*
+!.env.example
+API_KEYS
+*.pem
+*.key
+# Runtime
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+node_modules/
+dist/
+outputs/
+runs/
+wandb/
+*.log
+# Datasets, predictions and weights
+data/
+datasets/
+artifacts/
+*.csv
+*.parquet
+*.npy
+*.npz
+*.wav
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.safetensors
+*.zip
